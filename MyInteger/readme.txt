@@ -1,1 +1,1 @@
-Integer class that handles bool tests on state of integer passed in from construction. 
+Integer class that handles bool tests on the state of an integer passed in from object creation or user specified. 
