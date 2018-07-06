@@ -1,2 +1,2 @@
 # cppStuff
-My useful cpp codes for future use.
+My cpp random goodies. Feel free to use for yourself and browse. 
