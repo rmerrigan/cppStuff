@@ -1,5 +1,5 @@
 #pragma once
-//more meant for primitive types
+//more meant for primitive types, implementation and header files in one doc for compiler's sake
 template<typename T>
 class Stack
 {
